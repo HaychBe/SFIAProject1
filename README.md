@@ -18,6 +18,7 @@
 <div align="center">
   <ol>
     <li><a href="#Introduction">Introduction</a></li>
+    <li><a href="#Ideas">Ideas</a></li>
     <li>Application</li>
     <li>Usage</li>
     <li>Credits</li>
@@ -25,20 +26,39 @@
 </div>
 
 
-<h2 id="Introduction">Introduction</h2>
+<dt><h2 id="Introduction">Introduction</h2></dt>
+<dd> test 123
+test 123
+qdldlldlddldll
 
+ld
+ld
+dld
+dld
+ldl
+d
+dldlgjgjgj
 
-#### Ideas:
+ </dd>
+
+<dt> <h2 id="Ideas">Ideas</h2> </dt>
+<dd> <b>Ideas:</b>
+
 * Runescape Slayer helper
   * _Inbuilt calculator (Current task experience) -- Calculates experience you will receive from current task by MonsterHP x Quantity_
   * _Searchable database, shows slayable monsters at X level_
-  * provides recommendable gear for task + provides notable drops
+  * _provides recommendable gear for task + provides notable drops_
 
 * Fantasy Football
-  * _Searchable Player database for player stats (goals, appearance, assists etc)_
-  * _Searchable Team database for team stats (Games played, wins,losses, conceded etc)_
-  * _Team compare/Player compare. (Compares the above stats)_
-  * _Team creator / Budget_
+  * _Searchable player database for player stats (goals, appearance, assists etc)_
+  * _Searchable team database for team stats (games played, wins,losses, conceeded etc)_
+  * _Team compare / player compare (compares the above stats)_
+  * _Team creator / budget_
   * _Player prices_
   * _Generic fantasy football app_
+</dd>
+
+
+
+
  
