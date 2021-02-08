@@ -6,13 +6,15 @@
 
 <!--- Code for Shields.io buttons --->
 
-<div style="padding-left: 200px;">
+<!--- <div style="padding-left: 200px;"> --->
+<div align="center">
    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/HaychBe/SFIAProject1/total?logo=GitHub">
    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/HaychBe/SFIAProject1?logo=GitHub">
 </div>
 
 <dt>
-<div style="padding-left: 200px;">
+<!--- <div style="padding-left: 200px;"> --->
+<div align="center">
   <img src ="images/ToCTitle.png" alt="Table of contents">
 </div>
 </dt>
