@@ -18,9 +18,9 @@
   <img src ="images/ToCTitle.png" alt="Table of contents">
 </div>
 </dt>
-<dt>
 <div align="center">
-  <ul style="list-style-type:none;">
+<dt>
+  <ul style="list-style-type:none; padding:0;">
     <li><a href="#Introduction">Introduction</a></li>
     <li><a href="#ApplicationDemo">Application Demo</a></li>
     <li><a href="#Usage">Usage</a></li>
